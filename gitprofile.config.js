@@ -33,20 +33,9 @@ const config = {
       'https://drive.google.com/file/d/1z7Mgf7HTOz381yqhGV66Z773KGgX20Y0/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    '',
     'Phython',
     'Java',
-    '',
-    '',
-    'N',
     'SQL',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
   ],
   experiences: [
     {

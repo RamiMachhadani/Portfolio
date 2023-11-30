@@ -77,14 +77,14 @@ const config = {
     {
       title: 'Amazon Web Service Badge',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Earners of this badge have taken the AWS Academy Cloud Foundations course.',
       imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
       link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
     },
     {
       title: 'Introduction to Packet Tracer Badge',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Cisco verifies the earner of this badge has knowledge and skills to create digital models of IP Networks and IoT Systems using Cisco Packet Tracer.',
       imageUrl: 'https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png',
       link: 'https://www.credly.com/badges/ac6157f2-581e-4c13-9d2a-06e61ec3ed71/linked_in_profile',
     },

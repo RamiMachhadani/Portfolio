@@ -75,11 +75,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Amazon Web Service Badge',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
+      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
     },
     {
       title: 'Project Name',

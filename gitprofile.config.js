@@ -82,6 +82,13 @@ const config = {
       link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
     },
     {
+      title: 'Amazon Web Service Badge',
+      description:
+        'Earners of this badge have taken the AWS Academy Cloud Foundations course.',
+      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
+      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+    },
+    {
       title: 'Introduction to Packet Tracer Badge',
       description:
         'Cisco verifies the earner of this badge has knowledge and skills to create digital models of IP Networks and IoT Systems using Cisco Packet Tracer.',

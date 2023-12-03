@@ -78,8 +78,8 @@ const config = {
       title: 'Enterprise Architecture & Network Project',
       description:
         'A Team Project and Presentation About the infrastructure and needs of a local Att branch!',
-      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
-      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+      imageUrl: 'https://rb.gy/55u4qa',
+      link: 'https://rb.gy/x0bmi9',
     },
     {
       title: 'Certified Scrum Master (CSM)',

@@ -78,7 +78,7 @@ const config = {
       title: 'Enterprise Architecture & Network Project',
       description:
         'A Team Project and Presentation About the infrastructure and needs of a local Att branch!',
-      imageUrl: 'https://rb.gy/55u4qa',
+      imageUrl: 'https://rb.gy/eiyuks',
       link: 'https://rb.gy/x0bmi9',
     },
     {
@@ -101,6 +101,13 @@ const config = {
         'Earners of this badge have taken the AWS Academy Cloud Foundations course.',
       imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
       link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+    },
+    {
+      title: 'ISC2 Badge',
+      description:
+        'ISC2 Candidates are individuals pursuing or considering a cybersecurity certification. To become a Candidate, the individual must apply online and provide minimum identifying information',
+      imageUrl: 'https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png',
+      link: 'https://www.credly.com/badges/ac931cf1-d692-4032-8fa0-d8c451b5a3f0/linked_in_profile',
     },
     {
       title: 'Introduction to Packet Tracer Badge',

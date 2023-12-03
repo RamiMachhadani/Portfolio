@@ -85,7 +85,7 @@ const config = {
       title: 'Certified Scrum Master (CSM)',
       description:
         'A Scrum master is the facilitator of scrum, a lightweight agile framework focusing on time-boxed iterations called sprints.',
-      imageUrl: 'https://ibb.co/c8GdXz0',
+      imageUrl: 'https://i.ibb.co/94Fj3R6/CSM-Certification-Rami-Machhadani-1-1.png',
       link: 'https://ibb.co/c8GdXz0',
     },
     {

@@ -75,9 +75,23 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Amazon Web Service Badge',
+      title: 'Enterprise Architecture & Network Project',
       description:
-        'Earners of this badge have taken the AWS Academy Cloud Foundations course.',
+        'A Team Project and Presentation About the infrastructure and needs of a local Att branch!',
+      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
+      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+    },
+    {
+      title: 'Certified Scrum Master (CSM)',
+      description:
+        'A Scrum master is the facilitator of scrum, a lightweight agile framework focusing on time-boxed iterations called sprints.',
+      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
+      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+    },
+    {
+      title: 'Certified Professional Project Management (PMP)',
+      description:
+        'The PMP acknowledges candidates skilled at managing the people, processes, and business priorities of professional projects.',
       imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
       link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
     },

@@ -78,7 +78,7 @@ const config = {
       title: 'Enterprise Architecture & Network Project',
       description:
         'A Team Project and Presentation About the infrastructure and needs of a local Att branch!',
-      imageUrl: 'https://rb.gy/eiyuks',
+      imageUrl: 'https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NR2NW6Q6K5NY7IXSNUEUZT5NIE.jpg',
       link: 'https://rb.gy/x0bmi9',
     },
     {

@@ -93,7 +93,7 @@ const config = {
       description:
         'The PMP acknowledges candidates skilled at managing the people, processes, and business priorities of professional projects.',
       imageUrl: 'https://vbeventstorage.blob.core.windows.net/cert-hvzuxq8qlzpzkkk2-wxhm/badge-preview.png?165',
-      link: 'https://vbeventstorage.blob.core.windows.net/cert-hvzuxq8qlzpzkkk2-wxhm/badge-preview.png?165',
+      link: 'https://ibb.co/t2CG1Mv',
     },
     {
       title: 'Amazon Web Service Badge',

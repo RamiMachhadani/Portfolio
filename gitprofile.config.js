@@ -85,8 +85,8 @@ const config = {
       title: 'Certified Scrum Master (CSM)',
       description:
         'A Scrum master is the facilitator of scrum, a lightweight agile framework focusing on time-boxed iterations called sprints.',
-      imageUrl: 'https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png',
-      link: 'https://www.credly.com/badges/a592d5a2-1777-4dd3-b0e8-75ea9ca6dbb1/linked_in_profile',
+      imageUrl: 'https://ibb.co/c8GdXz0',
+      link: 'https://ibb.co/c8GdXz0',
     },
     {
       title: 'Certified Professional Project Management (PMP)',
